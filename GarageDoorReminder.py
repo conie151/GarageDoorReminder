@@ -36,4 +36,4 @@ while True:
             reminder_sent = True
 
     # Adjust the sleep duration based on your requirements
-    time.sleep(60)  # Sleep for 1 minute before checking again
+    time.sleep(900)  # Sleep for 15 minute before checking again
